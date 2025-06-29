@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme inline {
+  --shadow-popup: 0 1px 12px 2px rgba(36, 36, 36, 0.07);
+}
